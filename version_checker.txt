@@ -1,1 +1,4 @@
-mods-folder,1.0.0
+{
+    "mecanica": "1.0.0",
+    "outra_resource": "2.3.1",
+}
