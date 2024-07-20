@@ -1,4 +1,4 @@
 {
-    "brnx_island_asylum": "1.1",
-    "brnx_island_asylum_changelog": "fix on airport flooded with water (IMPORTANT), also fixed lod bug on missing tree and added rock collision."
+    "brnx_island_asylum": "1.2",
+    "brnx_island_asylum_changelog": "fixed some bugs found in water.xml"
 }
