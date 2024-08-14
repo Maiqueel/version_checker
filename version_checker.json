@@ -1,4 +1,6 @@
 {
     "brnx_island_asylum": "1.2",
-    "brnx_island_asylum_changelog": "fixed some bugs found in water.xml"
+    "brnx_island_asylum_changelog": "fixed some bugs found in water.xml",
+    "brnx_prisonescapetunnel": "1.0",
+    "brnx_prisonescapetunnel_changelog": "Initial Release. Enjoy :)"
 }
