@@ -5,6 +5,6 @@
     "brnx_prisonescapetunnel_changelog": "Initial Release. Enjoy :)",
     "brnx_legendarymotorsport": "1.2",
     "brnx_legendarymotorsport_changelog": "Fixed crash when DealershipVehicleSpawn was: false",
-    "brnx_tencentcinema": "1.0",
-    "brnx_tencentcinema_changelog": ""
+    "brnx_tencentcinema": "1.1",
+    "brnx_tencentcinema_changelog": "Fixed audio occlusion"
 }
